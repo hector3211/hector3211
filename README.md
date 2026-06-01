@@ -1,5 +1,5 @@
 # 💫 About Me:
-As a full-stack developer, I'm passionate about building innovative projects using a versatile stack that includes Go, and TypeScript. I prefer Go for backend development and rely on Postgers and SQLite as my go to's for a database. On the front-end, I use TypeScript and JavaScript, working with frameworks like NextJS or SolidJS to create user-friendly interfaces. I seamlessly integrate with Gorm and Drizzle. My journey in development is characterized by a commitment to learning, a drive to enhance my skills, and a strong enthusiasm for tackling new challenges.
+I am a full-stack developer, DevOps engineer, and system administrator with hands-on experience building web applications, backend services, developer tooling, and cloud infrastructure. I work with Go, TypeScript, relational databases, and modern web frameworks to build practical software. I also have experience with AWS, Terraform, ECS, CI/CD pipelines, Linux, automation, and IT systems administration. My background across software development and technical support helps me approach problems with a focus on troubleshooting, reliability, and real-world solutions.
 
 
 ## 🌐 Socials:
