@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a full-stack developer, DevOps engineer, and system administrator with hands-on experience building web applications, backend services, developer tooling, and cloud infrastructure. I work with Go, TypeScript, relational databases, and modern web frameworks to build practical software. I also have experience with AWS, Terraform, ECS, CI/CD pipelines, Linux, automation, and IT systems administration. My background across software development and technical support helps me approach problems with a focus on troubleshooting, reliability, and real-world solutions.
+I work across software development, cloud infrastructure, and systems administration, with hands-on experience building web applications, backend services, developer tooling, and automation. I use Go, TypeScript, relational databases, AWS, Terraform, and Linux to build practical, reliable systems. My background in IT support and infrastructure helps me approach problems with a focus on troubleshooting, automation, and real-world solutions.
 
 
 ## 🌐 Socials:
